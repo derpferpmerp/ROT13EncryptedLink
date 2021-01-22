@@ -11,4 +11,6 @@ python decrypter.py
 echo " ! = :"
 echo " _ = /"
 echo " * = ."
+echo " 6 = 0"
+echo " 9 = 3"
 echo " Open the Link (Once you\'ve changed those characters) in the browser "
